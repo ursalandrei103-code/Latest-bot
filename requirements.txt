@@ -1,4 +1,4 @@
-pip install -r requirements.txt
+-r requirements.txt
 python-telegram-b.7
 requests==2.31.0
 pycryptodome==3.20.0
